@@ -18,14 +18,22 @@ Project Structure
 
 src\test\auto
 
-•	pages 
-  o	CartPage.java 
+•	pages
+
+  o	CartPage.java
+  
   o	HomePage.java
+  
   o	SearchPage.java
+  
 •	tests
+
   o	TestPage.java
+  
 •	utils
+
   o	DriverUtils.java
+  
 
 Help to run Test 
 
