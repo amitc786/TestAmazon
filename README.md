@@ -11,5 +11,24 @@ Extract all product names with best seller.
 
 Add them to cart
 
-view cart
+View cart
+
+Project Structure:
+src\test\auto
+  pages
+    CartPage.java
+    HomePage.java
+    SearchPage.java
+  tests
+    TestPage.java
+  utils
+    DriverUtils.java
+
+Help to run Test
+Pull https://github.com/amitc786/TestAmazon.git
+Go to Eclipse
+Open Project
+Open TestPage.java
+Current ProductName is books (We can change any product details here)
+
 
